@@ -1,7 +1,7 @@
 <!-- رابط مكتبة لوتي -->
 <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
 
-# Mariam
+# Maryam
 <dotlottie-player 
   src="https://lottie.host/6d5748e0-a2d7-4c78-9cee-dc315402007f/0z2cCoe2X6.lottie" 
   background="transparent" 
@@ -17,4 +17,4 @@
 -  *Specialization*: IT.
 
 ## Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/maryam-eid-4b0605308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
