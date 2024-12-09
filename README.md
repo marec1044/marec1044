@@ -1,7 +1,5 @@
 ![Hi GIF](https://github.com/marec1044/marec1044/raw/main/hi.gif)
 
-# Maryam
-
 ## About Me
 - *Student* at Borg Al-Arab University of Technology, Faculty of Industry and Energy, Department of Information Technology.
 
